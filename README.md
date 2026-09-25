@@ -8,7 +8,13 @@ Duty Cycle: `99.8%`
 ## Schematic
 ![schematic](/image.png)
 
-### Breadboard wiring
+### Breadboard wiring & demo
+
+
+
+https://github.com/user-attachments/assets/7e8570b3-aaa5-4310-8fb2-1cdb0d6227dd
+
+
 
 ![breadboard](/20260925_203341.jpg)
 
