@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1","10nF","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","1",""
+"C2","100nF","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","1",""
+"D1,D2","1N4148","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","2",""
+"Q2","IRFZ44N","","Package_TO_SOT_THT:TO-220-3_Vertical","1",""
+"R1","1k","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","1",""
+"R2,RV1","10k","","Connector:FanPinHeader_1x03_P2.54mm_Vertical,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","2",""
+"U1","NE555P","http://www.ti.com/lit/ds/symlink/ne555.pdf","Package_DIP:DIP-8_W7.62mm","1",""
