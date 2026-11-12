@@ -1,6 +1,8 @@
 # 12v-rgb-led-strip-common-anode-driver
 
 12v rgb led strip common anode driver using only a ne555p
+it works by using the 555 to control the pwm signal which is then connected to the strip by the mosfet thus allowing us to control the brightness of the strip
+made to reuse some random led strips i found to a ambient red light
 
 Vcc is 12V
 pin 3 of IRFZ44N goes to the respective color you want to modulate
