@@ -1,27 +1,26 @@
 # 12v-rgb-led-strip-common-anode-driver
+
 12v rgb led strip common anode driver using only a ne555p
 
 Vcc is 12V
-pin 3 of IRFZ44N goes to the respective color you want to modulate 
+pin 3 of IRFZ44N goes to the respective color you want to modulate
 Duty Cycle: `99.8%`
 
 ## Schematic
-![schematic](/image.png)
+
+![schematic](Assets/image.png)
 
 ### Breadboard wiring & demo
 
-
-
 https://github.com/user-attachments/assets/7e8570b3-aaa5-4310-8fb2-1cdb0d6227dd
+[YT video](https://youtu.be/Rqeke_L8ezI)
 
-
-
-![breadboard](/20260925_203341.jpg)
+![breadboard](Assets/20260925_203341.jpg)
 
 ### BOM
 
 | Reference | Value | Qty |
-|---|---|---|
+| --- | --- | --- |
 | C1 | 10nF | 1 |
 | C2 | 100nF | 1 |
 | D1, D2 | 1N4148 | 2 |
